@@ -1,1 +1,1 @@
-export const BASE_URL = "https://chatapp-backend-1-1k9p.onrender.com";
+const socket = io("https://chatapp-backend-g96h.onrender.com");
